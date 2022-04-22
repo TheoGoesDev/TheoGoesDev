@@ -11,3 +11,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
 </div>
+---
+
+### :technologist: about me:
+
