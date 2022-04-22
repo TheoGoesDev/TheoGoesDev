@@ -3,10 +3,11 @@ TheoGoesDev/TheoGoesDev is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xUA7bb3NUbyq1oJK7u/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width="400"/>
 </div>
 
- <div id="badges" align="center">
+<div id="badges" align="center">
+  <justify>Find me on: </justify>
  <a href="https://www.linkedin.com/in/thodoris-koutanis-30978560"/>
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
