@@ -44,3 +44,11 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="30" height="30"/>&nbsp;
 </div>
+
+---
+
+### 🔥 My stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheoGoesDev&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoesDev)](https://github.com/anuraghazra/github-readme-stats)
