@@ -23,4 +23,5 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="30" height="30"/>&nbsp;
 </div>
