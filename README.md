@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div id="badges">
- <a href="https://www.linkedin.com/in/thodoris-koutanis-30978560/">
+ <a href=https://www.linkedin.com/in/thodoris-koutanis-30978560/>
   <img src="https://https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
 </div>
