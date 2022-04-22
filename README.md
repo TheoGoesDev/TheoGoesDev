@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 👨‍💻 about me:
+### 👨‍💻 About me:
 
 - I am a cloud engineer working in the Cloud Center of Excellence deparment in a large organization in the automotive industry
 - I specialize in Azure cloud and in governance and automation of various solutions in Azure
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 🛠️ languages and tools:
+### 🛠️ Environments, languages and tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="30" height="30"/>&nbsp;
