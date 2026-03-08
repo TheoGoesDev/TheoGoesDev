@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 ### 👨‍💻 About me:
 
-- I am a cloud engineer working in the Cloud Center of Excellence deparment in a large organization in the automotive industry
-- I specialize in Azure cloud and in governance and automation of various solutions in Azure
-- I mainly work with powershell and terraform and I am learning python as well
+- I am a cloud engineer working in the Cloud and Operations Platform deparment in a large organization in the automotive industry
+- I specialize in Azure cloud - networking and automation of various solutions in Azure
+- I mainly work with Terraform, Python and Powershell
 
 ---
 
