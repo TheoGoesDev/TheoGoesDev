@@ -1,54 +1,115 @@
 <!---
 TheoGoesDev/TheoGoesDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width="400"/>
-</div>
 
-<div id="badges" align="center">
- <a href="https://www.linkedin.com/in/thodoris-koutanis-30978560"/>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
-</div>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B,4ECDC4&height=220&section=header&text=THEO%20KOUTANIS&fontSize=56&fontAlignY=42&animation=fadeIn&fontColor=FFFFFF&desc=Cloud%20Platform%20Engineer%20%7C%20Azure%20Specialist%20%7C%20Zaandam%2C%20NL&descAlignY=65&descSize=17&descColor=FFE66D"/>
 
----
+<!-- CONTACT -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/theo-koutanis-30978560/">
+    <img src="https://img.shields.io/badge/LinkedIn-1A535C?style=for-the-badge&logo=linkedin&logoColor=4ECDC4" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:tkoutanis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/TheoGoesDev">
+    <img src="https://img.shields.io/badge/GitHub-FFE66D?style=for-the-badge&logo=github&logoColor=1A535C" alt="GitHub"/>
+  </a>
+</p>
 
-### 👨‍💻 About me:
+<br/>
 
-- I am a cloud engineer working in the Cloud and Operations Platform deparment in a large organization in the automotive industry
-- I specialize in Azure cloud - networking and automation of various solutions in Azure
-- I mainly work with Terraform, Python and Powershell
+<!-- ABOUT -->
 
----
+```
+  $ whoami
+  ──────────────────────────────────────────────────────────────────
+  Cloud Platform Engineer @ TomTom International — Amsterdam, NL
+  Designing and running global Azure network infrastructure for
+  thousands of engineers across the organization.
 
-### 🛠️ Environments, languages and tools:
+  Specialities : landing zones · network security · IaC at scale
+  Stack        : Terraform · Pulumi · Python · PowerShell
+  Platform     : Azure (Virtual WAN, ExpressRoute, Policy)
+  Certs        : 9× Microsoft Certified
+  ──────────────────────────────────────────────────────────────────
+```
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" title="Google-Foo" alt="Google-foo" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Aks" alt="Aks" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="MarkDown" alt="MarkDown" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/packer/packer-original-wordmark.svg" title="Packer" alt="Packer" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="30" height="30"/>&nbsp;
-</div>
+<br/>
 
 ---
 
-### 🔥 My stats:
+## `> ls skills/`
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheoGoesDev&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+**☁ Cloud & Infrastructure**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoesDev)](https://github.com/anuraghazra/github-readme-stats)
+![Azure](https://img.shields.io/badge/Azure-FF6B6B?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/AKS-FF6B6B?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF6B6B?style=flat-square&logo=linux&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-FF6B6B?style=flat-square&logo=packer&logoColor=white)
+
+**⚙ Infrastructure as Code**
+
+![Terraform](https://img.shields.io/badge/Terraform-4ECDC4?style=flat-square&logo=terraform&logoColor=1A535C)
+![Pulumi](https://img.shields.io/badge/Pulumi-4ECDC4?style=flat-square&logo=pulumi&logoColor=1A535C)
+![Ansible](https://img.shields.io/badge/Ansible-4ECDC4?style=flat-square&logo=ansible&logoColor=1A535C)
+
+**💻 Scripting & Automation**
+
+![Python](https://img.shields.io/badge/Python-1A535C?style=flat-square&logo=python&logoColor=FFE66D)
+![PowerShell](https://img.shields.io/badge/PowerShell-1A535C?style=flat-square&logo=powershell&logoColor=4ECDC4)
+![Bash](https://img.shields.io/badge/Bash-1A535C?style=flat-square&logo=gnubash&logoColor=4ECDC4)
+
+**🛠 Tooling & DevOps**
+
+![Git](https://img.shields.io/badge/Git-FFE66D?style=flat-square&logo=git&logoColor=1A535C)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FFE66D?style=flat-square&logo=githubactions&logoColor=1A535C)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-FFE66D?style=flat-square&logo=azuredevops&logoColor=1A535C)
+![VS Code](https://img.shields.io/badge/VS_Code-FFE66D?style=flat-square&logo=visualstudiocode&logoColor=1A535C)
+![Jira](https://img.shields.io/badge/Jira-FFE66D?style=flat-square&logo=jira&logoColor=1A535C)
+![Confluence](https://img.shields.io/badge/Confluence-FFE66D?style=flat-square&logo=confluence&logoColor=1A535C)
+
+<br/>
+
+---
+
+## `> cat certifications.txt`
+
+**Azure**
+
+![DevOps Expert](https://img.shields.io/badge/DevOps_Engineer_Expert-FF6B6B?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Architect Expert](https://img.shields.io/badge/Solutions_Architect_Expert-FF6B6B?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AVD Specialty](https://img.shields.io/badge/Virtual_Desktop_Specialty-FF6B6B?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Network Admin](https://img.shields.io/badge/Network_Admin_Associate-4ECDC4?style=for-the-badge&logo=microsoftazure&logoColor=1A535C)
+![Azure Admin](https://img.shields.io/badge/Administrator_Associate-4ECDC4?style=for-the-badge&logo=microsoftazure&logoColor=1A535C)
+![Data Fundamentals](https://img.shields.io/badge/Data_Fundamentals-4ECDC4?style=for-the-badge&logo=microsoftazure&logoColor=1A535C)
+
+**Microsoft & Other**
+
+![Security Admin](https://img.shields.io/badge/Security_Admin_Associate-1A535C?style=for-the-badge&logo=microsoft&logoColor=FFE66D)
+![Teams Admin](https://img.shields.io/badge/Teams_Admin_Associate-1A535C?style=for-the-badge&logo=microsoftteams&logoColor=FFE66D)
+![MCT](https://img.shields.io/badge/Microsoft_Certified_Trainer-1A535C?style=for-the-badge&logo=microsoft&logoColor=FFE66D)
+![CheckPoint](https://img.shields.io/badge/CheckPoint_CCSE-FFE66D?style=for-the-badge&logo=checkpoint&logoColor=1A535C)
+![CCENT](https://img.shields.io/badge/Cisco_CCENT-FFE66D?style=for-the-badge&logo=cisco&logoColor=1A535C)
+
+<br/>
+
+---
+
+## `> git log --oneline`
+
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=TheoGoesDev&show_icons=true&theme=default&title_color=FF6B6B&icon_color=4ECDC4&text_color=1A535C&border_color=1A535C&bg_color=F7F7F7&hide_border=false&include_all_commits=true&count_private=true"/>
+  &nbsp;
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoesDev&layout=compact&title_color=FF6B6B&text_color=1A535C&border_color=1A535C&bg_color=F7F7F7&hide_border=false"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TheoGoesDev&theme=default&hide_border=false&border=1A535C&ring=FF6B6B&fire=FF6B6B&currStreakLabel=1A535C&sideLabels=1A535C&dates=4ECDC4&currStreakNum=1A535C&sideNums=1A535C&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4ECDC4,FF6B6B&height=120&section=footer"/>
